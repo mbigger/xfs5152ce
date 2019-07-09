@@ -1,0 +1,20 @@
+{
+  "name": "xfs5152ce",
+  "version": "0.2.1",
+  "description": "a node library for operating the vocie chip XFS5152CE of iflyteck.",
+  "repository": "https://github.com/mbigger/xfs5152ce",
+  "keywords": [
+    "xfs5152ce",
+    "iflyteck"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "benwen",
+  "license": "MIT",
+  "dependencies": {
+    "node-pre-gyp": "^0.13.0",
+    "serialport": "^7.1.5"
+  }
+}
